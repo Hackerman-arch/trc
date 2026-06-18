@@ -1,4 +1,4 @@
-# TRC(Turkish C) - Türkçe C v0.2b
+# TRC(Turkish C) - Türkçe C v0.21b
 Türkçe C kütüphanesi, standart C lib fonksiyonlarının Türkçeleştirilmiş hâllerini içerir.
 Turkish C library contains Turkish forms of standart C lib functions.
 
@@ -46,5 +46,8 @@ Some small bugs are fixed.
 
 Bazı ufak hatalar ayıklandı.
 
------------------------------
+Examples added.
 
+Örnekler eklendi.
+
+-----------------------------

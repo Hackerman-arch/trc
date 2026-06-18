@@ -1,4 +1,4 @@
-#include "libtrc.a"
+#include <trc.h>
 int main()
 {
     char success[]="io test successful.\n";
