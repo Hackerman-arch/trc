@@ -45,5 +45,6 @@ Makefile eklendi.
 Some small bugs are fixed.
 
 Bazı ufak hatalar ayıklandı.
+
 -----------------------------
 
