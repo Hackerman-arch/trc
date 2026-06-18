@@ -51,3 +51,12 @@ Examples added.
 Örnekler eklendi.
 
 -----------------------------
+
+Features will be added in the next version/Sonraki versiyonda eklenecek özellikler:
+Memory management.
+
+Bellek yönetimi.
+
+More file management functions.
+
+Daha fazla dosya yönetimi fonksiyonları.
