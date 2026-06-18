@@ -21,17 +21,29 @@ int main()
 }
 
 NEW FEATURES/YENİ ÖZELLİKLER:
--File management added.
--Dosya yönetimi eklendi.
--Portable library file added.
--Taşınabilir kütüphane dosyası eklendi.
--File system made more regular.
--Dosya sistemi daha düzenli yapıldı.
--Trash files has been deleted.
+
+File management added.
+
+Dosya yönetimi eklendi.
+
+Portable library file added.
+
+Taşınabilir kütüphane dosyası eklendi.
+
+File system made more regular.
+
+Dosya sistemi daha düzenli yapıldı.
+
+Trash files has been deleted.
+
 Çöp dosyalar silindi.
--Makefile added.
--Makefile eklendi.
--Some small bugs are fixed.
--Bazı ufak hatalar ayıklandı.
+
+Makefile added.
+
+Makefile eklendi.
+
+Some small bugs are fixed.
+
+Bazı ufak hatalar ayıklandı.
 -----------------------------
 
