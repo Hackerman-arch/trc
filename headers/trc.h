@@ -10,6 +10,9 @@ long uzunluk_al(char *s);
 
 void yaz(long fd, char* str, long len);
 void oku(long fd, char* str, long len);
+long dosya_ac(char *filename, long mode);
+long dosya_oku(long fd,char buffer[],long len);
+void dosya_kapat(long fd);
 void temizle();
 
 #endif

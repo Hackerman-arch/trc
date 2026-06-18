@@ -1,9 +1,20 @@
 #include "trc.h"
 void beklesn(int num,int num1)
 {
-    emir(101,(long)(long[]){num,num1},0,0);
+    emir(101,(long)(long[]){num,num1},0,0,0);
 }
-
+long dosya_ac(char *filename,long mode)
+{
+    return emir(56,-100,(long)filename,mode,0);
+}
+long dosya_oku(long fd,char buffer[],long len)
+{
+    return emir(63,fd,(long)buffer,len,0);
+}
+void dosya_kapat(long fd)
+{
+    emir(57,fd,0,0,0);
+}
 int karsilastir(char* str, char* str1)
 {
     while(*str && *str1 && *str == *str1)
